@@ -1,0 +1,3 @@
+<launch>
+    <node name="placing_node" pkg="contact_graspnet_ros" type="placing_checker.py" output="screen"/>
+</launch>

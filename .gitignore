@@ -1,0 +1,12 @@
+results
+checkpoints/*
+*.npz
+**/*.pyc
+**/__pycache__
+.vscode
+Pointnet2_PyTorch
+pointnet2
+pybullet_ompl
+docker/ompl
+data
+
